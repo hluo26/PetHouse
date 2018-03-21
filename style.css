@@ -1,4 +1,8 @@
 
+.container{
+  overflow-y:auto;
+    height:100%;
+}
 .div1 {
     border: 0.5px ;
 		  width: 860px;
@@ -67,15 +71,11 @@ h4 {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-header {
-    padding:0.01em;
-    color: white;
-    clear: left;
-    text-align: center;
-		background-image: url("title.jpg");
-		margin-right: 193px;
-		margin-left: 193px;
+.jumbotron{
+  margin-bottom: 0;
+  background: url("image/cloth.png");
 }
+
 
 .fa {
     padding: 20px;
