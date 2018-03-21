@@ -1,8 +1,5 @@
 
-.container{
-  overflow-y:auto;
-    height:100%;
-}
+
 .div1 {
     border: 0.5px ;
 		  width: 860px;
@@ -91,9 +88,6 @@ h4 {
     color: white;
 }
 
-nav{
-margin-left: 193px;
-}
 
 p{
   margin-left: 10px;
